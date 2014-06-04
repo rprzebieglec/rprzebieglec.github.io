@@ -405,7 +405,7 @@ strong{
 }
 .portfolio-image{
     overflow:hidden;
-    height:370px;
+    /*height:370px;*/
     background-color: #ED5565;
 }
 .portfolio-image:hover img{

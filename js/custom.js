@@ -25,4 +25,6 @@ $(document).ready(function() {
 
         e.preventDefault(); // avoid to execute the actual submit of the form.
     });
+
+    $('.fancybox').fancybox({padding:3});
 });
